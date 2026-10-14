@@ -1,0 +1,4 @@
+class SupabaseConfig {
+  static const String url = 'TU_SUPABASE_URL_AQUI';
+  static const String anonKey = 'TU_SUPABASE_ANON_KEY_AQUI';
+}
